@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+table{
+    background-color: yellow;
+    border-color: black;
+    border-style: solid;
+}
+th{
+    border-color: black;
+    border-style: solid; 
+}
+
+td{
+    border-color: black;
+    border-style: solid;
+}
